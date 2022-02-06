@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Tech with Trac</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Feb 2022 09:50:29 -0500</lastBuildDate><atom:link href="https://tracybannon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 12:02:12 -0500</lastBuildDate><atom:link href="https://tracybannon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuance</title>
+      <link>https://tracybannon.github.io/post/nuance/</link>
+      <pubDate>Sun, 06 Feb 2022 12:02:12 -0500</pubDate>
+      
+      <guid>https://tracybannon.github.io/post/nuance/</guid>
+      <description>It&amp;rsquo;s interesting to consider all the moving parts with even the simplest of website using static content. Even the simplest directions may have a nuance that can cause unexpected results.
+Seems like common sense, right? The trouble in simply following instructions without understanding the intentions and the context make troubleshooting a huge challenge.
+This can be fantastic for learning purposes but what of when we take this approach without adding time for upskilling, experimenting, and refactoring?</description>
+    </item>
+    
     <item>
       <title>Hello World!</title>
       <link>https://tracybannon.github.io/post/helloworld/</link>
