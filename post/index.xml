@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Feb 2022 19:19:05 -0500</lastBuildDate><atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://example.com/post/helloworld/</link>
+      <pubDate>Sat, 05 Feb 2022 19:19:05 -0500</pubDate>
+      
+      <guid>http://example.com/post/helloworld/</guid>
+      <description>Hello World! I&amp;rsquo;m taking time to create a new blog spot using GitHub + Hugo. My goal is to keep this as simply and skinny as possible. There are so many complex templates though I have no desire to need npm packages or other complexities.</description>
+    </item>
+    
+  </channel>
+</rss>
